@@ -5,14 +5,14 @@
 
 ⚡ **Full Stack Developer | AWS Certified | Builder of Secure & Scalable Systems**
 
-<img src="https://img.shields.io/badge/Location-Winnipeg%2C%20Canada-1e1e1e?style=flat-square&logo=canada&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Canada-1e1e1e?style=flat-square&logo=canada&logoColor=white" />
 
 </div>
 
 ---
 
 ### 🔥 About Me
-- 🧩 Focused on **clean architecture**, **domain-driven design**, and **cloud-native systems**
+- 🧩 Focused on **onion architecture**, **domain-driven design**, and **cloud-native systems**
 - 💡 Passionate about solving complex problems with elegant, maintainable code  
 - ☁️ AWS Certified Solutions Architect – Associate  
 - 🚀 Currently crafting high-performance backend systems @ **Jetbase**
@@ -42,7 +42,7 @@
 ---
 
 ### 🌌 Connect & Collaborate  
-📧 **Email:** [your_email@example.com]  
+📧 **Email:** [shuhratberdiyev@gmail.com]  
 💬 **LinkedIn:** [linkedin.com/in/shuhrat-berdiyev-5090066b](https://www.linkedin.com/in/shuhrat-berdiyev-5090066b)  
 🌐 **Portfolio:** [gunebakar.com](https://gunebakar.com)
 
